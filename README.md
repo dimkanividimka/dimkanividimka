@@ -1,6 +1,6 @@
 # Hi there, my name is Dima 👋 
 
-## I'm a Ph.D. Student in Chemistry and 'coder' %)
+## I'm a 42 Prague student and Ph.D. Student at Charles University
 
 ---
 
