@@ -11,4 +11,4 @@
 <img align="left" alt="GPT" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="50px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" style="padding-right:10px;" />
 <img align="left" alt="ChemDraw" width="53px" src="https://github.com/dimkanividimka/dimkanividimka/blob/main/chem_draw.png" style="padding-right:10px;" />
-<img align="left" alt="Reaxys" width="125px" src="https://github.com/dimkanividimka/dimkanividimka/blob/main/Reaxys_151_PNG.png" style="padding-right:10px;" />
+<img align="left" alt="Reaxys" width="196px" src="https://github.com/dimkanividimka/dimkanividimka/blob/main/Reaxys_151_PNG.png" style="padding-right:10px;" />
