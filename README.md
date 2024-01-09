@@ -4,10 +4,6 @@
 
 ---
 
-[![dstarov's 42 stats](https://badge42.vercel.app/api/v2/cljbbb1kj003108mai1ibf9oc/stats?cursusId=21&coalitionId=286)](https://github.com/JaeSeoKim/badge42)
-
----
-
 ### Instruments
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
