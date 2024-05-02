@@ -1,6 +1,6 @@
 # Hi there, my name is Dima 👋 
 
-## I'm a 42 Prague student and Ph.D. Student at Charles University
+## I'm a 42 Prague student, currently studying Computer Science and Data Analysis/Data Engineering
 
 
 ### Instruments
