@@ -1,6 +1,6 @@
 # Hi there, my name is Dima 👋 
 
-## I'm a 42 Prague student, currently studying Computer Science and Data Analysis/Data Engineering
+## I'm a 42 Prague student with Chemical Engineering and Pharma Industry background, currently studying Computer Science and Data Analysis/Data Engineering
 
 
 ### Instruments
