@@ -1,7 +1,8 @@
 # Hi there, my name is Dima 👋 
 
-## I'm a 42 Prague student with Chemical Engineering and Pharma Industry background, currently studying Computer Science and Data Analysis/Data Engineering
+## I'm a practicing Data Engineer and former 42 Prague student, blending a passion for computer science, nature, and hiking with a professional background in Chemical Engineering and the Pharma industry.
 
+### In my repositories, you can find my completed projects from 42 Prague, as well as some demo projects that I have been practicing at.
 
 ### Instruments
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
